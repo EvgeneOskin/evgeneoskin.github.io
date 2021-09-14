@@ -1,15 +1,30 @@
-### Hi there 👋
+# Who am I
 
-🧔🏻‍♂️ I'm Eugene Oskin, a CTO of Termius.
+🧔🏻‍♂️ I'm Eugene Oskin, a CTO of Termius. I’m currently working on making Termius a great startup.
 
-🔭 I’m currently working on making Termius a great startup.
+## Skills and Interests
 
-🌱 I’m currently learning tensorflow, natural language processing, Rust, and Tauri.
+At the moment, I’m looking for help with building a network similar to OpenAI Codex with tensorflow.
 
-💬 Ask me about Software Architecture, Information Security, Django, Python, TypeScript, React, Electron, NodeJS, Swift on iOS, Android, Flutter, Arduino, IaS, AWS, Video Streaming, Technical leadership, awareness, and project management. Also, I like to talk about other programming languages like C/C++, Elixir, Rust, Go, Scala, Haskell, Dart, and Erlang.
+Feel free to ask me about:
 
-🤔 I’m looking for help with building a network similar to OpenAI Codex.
+- Software Architecture and Information Security
+- Django, Python
+- TypeScript, React, Electron, NodeJS
+- Swift on iOS, Android, Flutter
+- Arduino 
+- IaS and AWS
+- Video Streaming
+- Technical leadership
+- Self-awareness
+- Project management
+ 
+Also, I like to talk about other programming languages like C/C++, Elixir, Rust, Go, Scala, Haskell, Dart, and Erlang.
 
-⚡ Fun fact: I worked in Termius way before it became a startup. It was a Consulting business and I worked as a software engineer and architect for several.
+## My Story
 
-📫 How to reach me: evgene.oskin@gmail.com, [LinkedIn](https://www.linkedin.com/in/eugene-oskin-2278b3b8) or [@EugeneOskin](https://twitter.com/EugeneOskin).
+I worked in Termius way before it became a startup. It was a Consulting business and I worked as a software engineer and architect for several.
+
+## Contacts
+
+[evgene.oskin@gmail.com](mailto:evgene.oskin@gmail.com), [LinkedIn](https://www.linkedin.com/in/eugene-oskin-2278b3b8) or [@EugeneOskin](https://twitter.com/EugeneOskin).
