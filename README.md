@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning tensorflow, natural language processing, Rust, and Tauri.
 
-💬 Ask me about Software Architecture, Information Security, Django, Python, TypeScript, React, Electron, NodeJS, Swift on iOS, Android, Arduino, IaS, AWS, Video Streaming, Technical leadership, awareness, and project management. Also, I like to talk about another programming languages like Elixir, Rust, Go, Scala, Haskell.
+💬 Ask me about Software Architecture, Information Security, Django, Python, TypeScript, React, Electron, NodeJS, Swift on iOS, Android, Arduino, IaS, AWS, Video Streaming, Technical leadership, awareness, and project management. Also, I like to talk about other programming languages like Elixir, Rust, Go, Scala, Haskell.
 
 🤔 I’m looking for help with building a network similar to OpenAI Codex.
 
